@@ -36,9 +36,12 @@ A complete security monitoring homelab built with Wazuh — deployed on Ubuntu S
 
 | Component | Description |
 |-----------|-------------|
-| `wazuhinstallationandsetup.md` | Full installation guide for the 3-node lab |
-| `FILEINTEGRITYMGMT.md` | File integrity monitoring configuration and testing |
-| `FILEINTEGRITYMANAGEMENT.docx` | FIM documentation with screenshots |
+| `wazuhinstallationandsetup.md` | Full installation guide for the 3-node lab (with screenshots) |
+| `FILEINTEGRITYMGMT.md` | File integrity monitoring configuration and testing (with screenshots) |
+| `images/` | Screenshots extracted from the original documentation |
+
+> The original Word documentation (`FILEINTEGRITYMANAGEMENT.docx`) was extracted to
+> `images/` so the screenshots render directly in the markdown guides.
 
 ## Quick Start
 
